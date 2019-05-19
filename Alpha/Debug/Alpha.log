@@ -1,0 +1,4 @@
+﻿  main.cpp
+  Aura.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Aura.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Alpha.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\Alpha [Text]\Debug\Alpha.exe

@@ -1,0 +1,217 @@
+﻿  Aura.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\aura.cpp(15): warning C4154: deletion of an array expression; conversion to pointer supplied
+  Bank.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(226): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(268): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(270): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(364): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\bank.cpp(378): warning C4101: 'i': unreferenced local variable
+  Barrows.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\barrows.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\barrows.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\barrows.cpp(90): warning C4018: '<': signed/unsigned mismatch
+  Combat.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combat.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combat.cpp(238): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combat.cpp(312): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  CombatAssistant.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(261): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(263): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(279): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(294): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(298): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(308): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(313): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(316): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(321): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(326): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(343): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(389): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatassistant.cpp(392): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  CombatInterface.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatinterface.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\combatinterface.cpp(87): warning C4018: '<': signed/unsigned mismatch
+  Cooking.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\cooking.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\cooking.cpp(45): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  Crafting.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(27): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(45): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(58): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(69): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(80): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(91): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(102): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\crafting.cpp(113): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  DefinitionLoader.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\definitionloader.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Equipment.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\equipment.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\equipment.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  Fishing.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Fletching.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(437): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(485): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(509): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(533): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(557): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(660): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(684): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(732): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\fletching.cpp(780): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Food.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  FormulaData.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\formuladata.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  Ground.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\ground.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\ground.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\ground.cpp(63): warning C4018: '>': signed/unsigned mismatch
+  Herblore.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Inventory.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\inventory.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\inventory.cpp(192): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(36): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(136): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\item.cpp(148): warning C4018: '<': signed/unsigned mismatch
+  Loot.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\loot.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\loot.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\loot.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\herblore.cpp(198): warning C4715: 'Herblore::decant': not all control paths return a value
+  Compiling...
+  Magic.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\magic.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  MagicFormulas.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Map.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(56): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(86): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\map.cpp(110): warning C4018: '>': signed/unsigned mismatch
+  MeleeFormulas.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Mining.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\mining.cpp(49): warning C4018: '<': signed/unsigned mismatch
+  Npc.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\npc.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Potion.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\potion.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Prayer.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\prayer.cpp(88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\prayer.cpp(90): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  PrayerBook.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  RangedFormulas.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Runecrafting.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  SetBonus.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Shop.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\shop.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\shop.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\shop.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\shop.cpp(131): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\shop.cpp(165): warning C4018: '<=': signed/unsigned mismatch
+  Skills.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.cpp(89): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.cpp(96): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.cpp(99): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.cpp(157): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.cpp(166): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Slayer.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\slayer.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  SlayerTask.cpp
+  Smithing.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(50): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(74): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(126): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(128): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\smithing.cpp(130): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1274): note: see declaration of '_sleep'
+  SpellBook.cpp
+  Generating Code...
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\setbonus.cpp(34): warning C4715: 'SetBonus::dharokSet': not all control paths return a value
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\setbonus.cpp(55): warning C4715: 'SetBonus::guthanSet': not all control paths return a value
+  Compiling...
+  SupplyCrate.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\supplycrate.cpp(57): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\supplycrate.cpp(63): warning C4018: '<': signed/unsigned mismatch
+  Tutorial.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\tutorial.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\tutorial.cpp(47): warning C4018: '>': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\tutorial.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\tutorial.cpp(77): warning C4018: '>': signed/unsigned mismatch
+  UseItem.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Wintertodt.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\wintertodt.cpp(137): warning C4101: 'input': unreferenced local variable
+  Woodcutting.cpp
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\skills.h(45): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\woodcutting.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\2339695\desktop\stephen benner\games\alpha [text]\alpha\supplycrate.cpp(69): warning C4715: 'SupplyCrate::roll': not all control paths return a value
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Alpha.vcxproj -> C:\Users\2339695\Desktop\Stephen Benner\Games\Alpha [Text]\Release\Alpha.exe
